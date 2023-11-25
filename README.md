@@ -11,4 +11,4 @@ A small, but convenient pack has been created to help you get started a bit more
 Some of the server-side mods that are being run, are as follows:
 * EssentialsX
 * LuckPerms
-* SmoothTimber
+* Thizzy'z Tree Feller
